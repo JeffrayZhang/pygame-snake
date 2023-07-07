@@ -2,7 +2,10 @@
 
 This is a simple implementation of the classic Snake game using the Pygame library in Python. The game consists of a snake that moves around the screen, eating food and growing in length. The objective of the game is to avoid colliding with the boundaries of the screen or with the snake's own tail.
 
-How to Play:
+## Video Demo:
+![snake video demo](https://github.com/JeffrayZhang/pygame-snake/blob/main/snake-video-demo.gif)
+
+## How to Play:
 
 Run the game by executing the Python script snake_game.py.
 
